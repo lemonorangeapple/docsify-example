@@ -4,6 +4,6 @@
   },
   "scripts": {
     "init": "docsify init ./docs",
-    "serve": "docsify serve"
+    "serve": "docsify serve ./docs"
   }
 }
