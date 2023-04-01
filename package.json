@@ -3,6 +3,6 @@
     "docsify-cli": "^4.4.4"
   },
   "scripts": {
-    "serve": "docsify serve ./docs"
+    "serve": "docsify serve ./docs --port 80"
   }
 }
